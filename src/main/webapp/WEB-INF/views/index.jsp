@@ -2,7 +2,8 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>It's working on Tomcat server(9.0.120)</h2>
+    <h2>It's My first Deploy using Jenkins</h2>
+    <hr>
     <hr>
     <h1>${msg}</h1>
     <h1>Hello, world. (updated by dowon)</h1>
