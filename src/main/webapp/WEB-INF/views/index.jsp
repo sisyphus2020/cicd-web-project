@@ -8,6 +8,6 @@
     <h1>Hello, world. (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 4.0</h3>
-    <h3>My second project deploy to tomcat</h3>
+    <h3>Automatic My second project deploy to tomcat</h3>
 </body>
 </html>
